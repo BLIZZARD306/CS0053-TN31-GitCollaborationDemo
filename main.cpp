@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Developed to learn more about Collaboration
 int main() {
     cout << "Student Grade System" << endl;
     cout << "Welcome to our group project!" << endl;
